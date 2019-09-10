@@ -10,3 +10,7 @@ here.
 
 Alternatively you can put some modules you're interested in into `modules`
 subdirectory of your project sandbox.
+
+# Install settings
+
+[Click this link for install settings(Work only chrome)](http://www.espruino.com/webide?settings={"MODULE_URL":"http://nickprogramm.github.io/modules","BOARD_JSON_URL":"http://nickprogramm.github.io/json","SAVE_ON_SEND":true})
