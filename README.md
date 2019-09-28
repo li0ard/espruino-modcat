@@ -13,4 +13,4 @@ subdirectory of your project sandbox.
 
 # Install settings
 
-[Click this link for install settings(Work only chrome)](http://www.espruino.com/webide?settings={"MODULE_URL":"http://nickprogramm.github.io/modules","BOARD_JSON_URL":"http://nickprogramm.github.io/json","SAVE_ON_SEND":true})
+[Click this link for install settings(Work only chrome)](http://www.espruino.com/webide?settings={"MODULE_URL":"http://nickprogramm.github.io/espruino-modcat/modules","BOARD_JSON_URL":"http://nickprogramm.github.io/espruino-modcat/json","SAVE_ON_SEND":true})
